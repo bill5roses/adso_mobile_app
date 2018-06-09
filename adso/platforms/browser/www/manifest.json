@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ADSO Mobile",
+  "short_name": "ADSO Mobile",
+  "version": "org.theadso.adso",
+  "description": "ADSO Mobile App for easy and quick access to ADSO resources.",
+  "author": "ADSO Administrator",
+  "icons": [],
+  "start_url": "index.html"
+}
