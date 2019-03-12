@@ -28,12 +28,12 @@
         "source": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
     {
-        "merged": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
-        "source": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
-    },
-    {
         "merged": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
         "source": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
     },
     {
         "merged": "/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon.png.flat",

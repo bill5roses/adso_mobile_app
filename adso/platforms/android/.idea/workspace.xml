@@ -28,37 +28,37 @@
     <favorites_list name="android" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="device-2019-03-04-163331.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163331.png">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="device-2019-03-11-174605.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174605.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="device-2019-03-04-163411.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163411.png">
+      <file leaf-file-name="device-2019-03-11-174712.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174712.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="device-2019-03-04-163436.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163436.png">
+      <file leaf-file-name="device-2019-03-11-174746.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174746.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="device-2019-03-04-163516.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163516.png">
+      <file leaf-file-name="device-2019-03-11-175857.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-175857.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="device-2019-03-04-163549.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163549.png">
+      <file leaf-file-name="device-2019-03-11-175939.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-175939.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -3039,7 +3039,7 @@
     <option name="height" value="976" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -3052,13 +3052,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
@@ -3075,7 +3069,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1551744791066" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1552351486060" />
     <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/../../../adso-app-store-submit/android" />
   </component>
   <component name="RunDashboard">
@@ -3263,6 +3257,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="976" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3282,10 +3277,10 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.52" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.52" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3324,6 +3319,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163549.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163612.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163331.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163411.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163436.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163516.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163549.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-04-163612.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174605.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174712.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-174746.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-175857.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../adso-app-store-submit/android/device-2019-03-11-175939.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
