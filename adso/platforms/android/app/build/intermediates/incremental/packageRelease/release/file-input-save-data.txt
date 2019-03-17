@@ -1,9 +1,9 @@
 #Internal package file, do not edit.
-#Sat Mar 16 08:35:42 PDT 2019
+#Sun Mar 17 16:45:30 PDT 2019
 5.base=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/assets/release
 42.base=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 32.set=ANDROID_RESOURCE
-14.file=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-xxhdpi-v4/screen.png
+14.file=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable/icon.png
 9.base=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 21.set=ASSET
 39.set=DEX
@@ -42,7 +42,7 @@
 43.base=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 4.set=ASSET
 42.set=ANDROID_RESOURCE
-15.file=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable/icon.png
+15.file=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-xxhdpi-v4/screen.png
 31.set=ANDROID_RESOURCE
 49.set=ANDROID_RESOURCE
 47.base=/Users/bill/topdevz/git/adso_mobile_app/adso/platforms/android/app/build/intermediates/assets/release

@@ -32,6 +32,11 @@ var app = {
       spinContainer.style.display = "block";
     };
 
+    function size() {
+      websiteHolder.style.width = window.innerWidth + "px";
+      websiteHolder.style.height = (window.innerHeight - ((window.innerWidth < window.innerHeight) ? 80 : 40)) + "px";
+    };
+
     function show() {
       if (!showing) {
         websiteHolder.style.display = "block";
@@ -40,11 +45,8 @@ var app = {
         spinContainer.style.display = "none";
       }
       websiteHolder.style.width = (window.innerWidth + 10) + "px";
-      websiteHolder.style.height = (window.innerHeight - 80 + 10) + "px";
-      window.setTimeout(function() {
-        websiteHolder.style.width = window.innerWidth + "px";
-        websiteHolder.style.height = (window.innerHeight + 80) + "px";
-      }, 100);
+      websiteHolder.style.height = (window.innerHeight - ((window.innerWidth < window.innerHeight) ? 80 : 40) + 10) + "px";
+      window.setTimeout(size, 100);
     };
 
     function hide() {
@@ -100,9 +102,13 @@ var app = {
     });
 
     website.addEventListener('load', function() {
-        show();
-        console.log('website loaded');
-    })
+      show();
+      console.log('website loaded');
+    });
+
+    website.addEventListener('resize', function() {
+      size();
+    });
   },
 
   // deviceready Event Handler
