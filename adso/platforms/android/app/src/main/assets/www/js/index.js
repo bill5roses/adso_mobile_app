@@ -67,6 +67,14 @@ var app = {
       hide();
     });
 
+    document.getElementById("about").addEventListener("click", function(){
+      load("https://www.theadso.org/about-the-adso/");
+    });
+
+    document.getElementById("membership").addEventListener("click", function(){
+      load("https://www.theadso.org/membership/members-location");
+    });
+
     document.getElementById("news").addEventListener("click", function(){
       load("https://www.theadso.org/news-2");
     });

@@ -39,21 +39,25 @@ var app = {
         showing = true;
         spinContainer.style.display = "none";
       }
-      websiteHolder.style.width = (window.innerWidth - 10) + "px";
-      websiteHolder.style.height = (window.innerHeight - 80 - 10) + "px";
+      websiteHolder.style.width = (window.innerWidth + 10) + "px";
+      websiteHolder.style.height = (window.innerHeight - 80 + 10) + "px";
       window.setTimeout(function() {
         websiteHolder.style.width = window.innerWidth + "px";
-        websiteHolder.style.height = (window.innerHeight - 80) + "px";
+        websiteHolder.style.height = (window.innerHeight + 80) + "px";
       }, 100);
     };
 
     function hide() {
       websiteHolder.style.display = "none";
       closeWebsite.style.display = "none";
+      try {
+        website.contentWindow.document.open();
+        website.contentWindow.document.write("");
+        website.contentWindow.document.close();
+      } catch (e) {
+        console.log(e);
+      }
       website.src = "about:blank";
-      website.contentWindow.document.open();
-      website.contentWindow.document.write("");
-      website.contentWindow.document.close();
       window.setTimeout(function(){
         showing = false;
       }, 50);
@@ -61,6 +65,14 @@ var app = {
 
     closeWebsite.addEventListener("click", function(){
       hide();
+    });
+
+    document.getElementById("about").addEventListener("click", function(){
+      load("https://www.theadso.org/about-the-adso/");
+    });
+
+    document.getElementById("membership").addEventListener("click", function(){
+      load("https://www.theadso.org/membership/members-location");
     });
 
     document.getElementById("news").addEventListener("click", function(){
